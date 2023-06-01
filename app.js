@@ -4,14 +4,14 @@ const off_button = document.getElementById('off');
 function on_fan(){
     const fan = document.getElementById('fan-image');
 
-    fan.src = "Vfan.gif";
+    fan.src = "images/Vfan.gif";
     
 }
 
 function off_fan(){
     const fan = document.getElementById('fan-image');
 
-    fan.src = "fan.png";
+    fan.src = "images/fan.png";
     
 }
 
